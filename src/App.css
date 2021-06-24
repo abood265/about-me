@@ -1,0 +1,14 @@
+.Title{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.pic{
+  width: 200px;
+  border-radius: 20px;
+}
+.q{
+  font-family: sans-serif;
+  font-weight: bold;
+}
